@@ -1,6 +1,6 @@
 Configs for Stripper:Source.
 
-Grabbed from Acer's discord server.
+some grabbed from Acer's discord server. mostly misc now
 
 https://forums.alliedmods.net/showthread.php?t=39439
 
