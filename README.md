@@ -1,6 +1,4 @@
-Configs for Stripper:Source.
-
-some grabbed from Acer's discord server. mostly misc now
+misc CS:S configs for Stripper:Source. your mileage may very. caution. no turn on red.
 
 https://forums.alliedmods.net/showthread.php?t=39439
 
